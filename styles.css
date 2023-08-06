@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.dark-header {
+    background-color: #1F2973;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    margin-right: .5rem;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: extra-bold;
+    
+}
